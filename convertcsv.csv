@@ -1,0 +1,252 @@
+name,code,flag,appStore
+United Arab Emirates,AE,🇦🇪,true
+Afghanistan,AF,🇦🇫,true
+Antigua & Barbuda,AG,🇦🇬,true
+Anguilla,AI,🇦🇮,true
+Albania,AL,🇦🇱,true
+Armenia,AM,🇦🇲,true
+Angola,AO,🇦🇴,true
+Argentina,AR,🇦🇷,true
+Austria,AT,🇦🇹,true
+Australia,AU,🇦🇺,true
+Azerbaijan,AZ,🇦🇿,true
+Bosnia and Herzegovina,BA,🇧🇦,true
+Barbados,BB,🇧🇧,true
+Belgium,BE,🇧🇪,true
+Burkina Faso,BF,🇧🇫,true
+Bulgaria,BG,🇧🇬,true
+Bahrain,BH,🇧🇭,true
+Benin,BJ,🇧🇯,true
+Bermuda,BM,🇧🇲,true
+Brunei,BN,🇧🇳,true
+Bolivia,BO,🇧🇴,true
+Brazil,BR,🇧🇷,true
+Bahamas,BS,🇧🇸,true
+Bhutan,BT,🇧🇹,true
+Botswana,BW,🇧🇼,true
+Belarus,BY,🇧🇾,true
+Belize,BZ,🇧🇿,true
+Canada,CA,🇨🇦,true
+"Congo, Democratic Republic Of The",CD,🇨🇩,true
+"Congo, Republic of",CG,🇨🇬,true
+Switzerland,CH,🇨🇭,true
+Cote D'Ivoire,CI,🇨🇮,true
+Chile,CL,🇨🇱,true
+Cameroon,CM,🇨🇲,true
+China,CN,🇨🇳,true
+Columbia,CO,🇨🇴,true
+Costa Rica,CR,🇨🇷,true
+Cape Verde,CV,🇨🇻,true
+Cyprus,CY,🇨🇾,true
+Czech Republic,CZ,🇨🇿,true
+Germany,DE,🇩🇪,true
+Denmark,DK,🇩🇰,true
+Dominica,DM,🇩🇲,true
+Dominican Republic,DO,🇩🇴,true
+Algeria,DZ,🇩🇿,true
+Ecuador,EC,🇪🇨,true
+Estonia,EE,🇪🇪,true
+Egypt,EG,🇪🇬,true
+Spain,ES,🇪🇸,true
+Finland,FI,🇫🇮,true
+Fiji,FJ,🇫🇯,true
+Micronesia,FM,🇫🇲,true
+France,FR,🇫🇷,true
+Gabon,GA,🇬🇦,true
+United Kingdom,GB,🇬🇧,true
+Grenada,GD,🇬🇩,true
+Georgia,GE,🇬🇪,true
+Ghana,GH,🇬🇭,true
+Gambia,GM,🇬🇲,true
+Greece,GR,🇬🇷,true
+Guatemala,GT,🇬🇹,true
+Guinea-Bissau,GW,🇬🇼,true
+Guyana,GY,🇬🇾,true
+Hong Kong,HK,🇭🇰,true
+Honduras,HN,🇭🇳,true
+Croatia,HR,🇭🇷,true
+Hungary,HU,🇭🇺,true
+Indonesia,ID,🇮🇩,true
+Ireland,IE,🇮🇪,true
+Israel,IL,🇮🇱,true
+India,IN,🇮🇳,true
+Iraq,IQ,🇮🇶,true
+Iceland,IS,🇮🇸,true
+Italy,IT,🇮🇹,true
+Jamaica,JM,🇯🇲,true
+Jordan,JO,🇯🇴,true
+Japan,JP,🇯🇵,true
+Kenya,KE,🇰🇪,true
+Kyrgyzstan,KG,🇰🇬,true
+Cambodia,KH,🇰🇭,true
+St. Kitts & Nevis,KN,🇰🇳,true
+South Korea,KR,🇰🇷,true
+Kuwait,KW,🇰🇼,true
+Cayman Islands,KY,🇰🇾,true
+Kazakhstan,KZ,🇰🇿,true
+Laos,LA,🇱🇦,true
+Lebanon,LB,🇱🇧,true
+Saint Lucia,LC,🇱🇨,true
+Sri Lanka,LK,🇱🇰,true
+Liberia,LR,🇱🇷,true
+Lithuania,LT,🇱🇹,true
+Luxembourg,LU,🇱🇺,true
+Latvia,LV,🇱🇻,true
+Libya,LY,🇱🇾,true
+Morocco,MA,🇲🇦,true
+Moldova,MD,🇲🇩,true
+Montenegro,ME,🇲🇪,true
+Macedonia,MK,🇲🇰,true
+Mali,ML,🇲🇱,true
+Myanmar,MM,🇲🇲,true
+Mongolia,MN,🇲🇳,true
+Macau,MO,🇲🇴,true
+Mauritania,MR,🇲🇷,true
+Montserrat,MS,🇲🇸,true
+Malta,MT,🇲🇹,true
+Mauritius,MU,🇲🇺,true
+Maldives,MV,🇲🇻,true
+Malawi,MW,🇲🇼,true
+Mexico,MX,🇲🇽,true
+Malaysia,MY,🇲🇾,true
+Mozambique,MZ,🇲🇿,true
+Namibia,NA,🇳🇦,true
+Niger,NE,🇳🇪,true
+Nigeria,NG,🇳🇬,true
+Nicaragua,NI,🇳🇮,true
+Netherlands,NL,🇳🇱,true
+Norway,NO,🇳🇴,true
+Nepal,NP,🇳🇵,true
+Nauru,NR,🇳🇷,true
+New Zealand,NZ,🇳🇿,true
+Oman,OM,🇴🇲,true
+Panama,PA,🇵🇦,true
+Peru,PE,🇵🇪,true
+Papua New Guinea,PG,🇵🇬,true
+Philippines,PH,🇵🇭,true
+Pakistan,PK,🇵🇰,true
+Poland,PL,🇵🇱,true
+Portugal,PT,🇵🇹,true
+Palau,PW,🇵🇼,true
+Paraguay,PY,🇵🇾,true
+Qatar,QA,🇶🇦,true
+Romania,RO,🇷🇴,true
+Serbia,RS,🇷🇸,true
+Russia,RU,🇷🇺,true
+Rwanda,RW,🇷🇼,true
+Saudi Arabia,SA,🇸🇦,true
+Solomon Islands,SB,🇸🇧,true
+Seychelles,SC,🇸🇨,true
+Sweden,SE,🇸🇪,true
+Singapore,SG,🇸🇬,true
+Slovenia,SI,🇸🇮,true
+Slovakia,SK,🇸🇰,true
+Sierra Leone,SL,🇸🇱,true
+Senegal,SN,🇸🇳,true
+Suriname,SR,🇸🇷,true
+Sao Tome & Principe,ST,🇸🇹,true
+El Salvador,SV,🇸🇻,true
+Swaziland,SZ,🇸🇿,true
+Turks & Caicos,TC,🇹🇨,true
+Chad,TD,🇹🇩,true
+Thailand,TH,🇹🇭,true
+Tajikistan,TJ,🇹🇯,true
+Turkmenistan,TM,🇹🇲,true
+Tunisia,TN,🇹🇳,true
+Tonga,TO,🇹🇴,true
+Turkey,TR,🇹🇷,true
+Trinidad & Tobago,TT,🇹🇹,true
+Taiwan,TW,🇹🇼,true
+Tanzania,TZ,🇹🇿,true
+Ukraine,UA,🇺🇦,true
+Uganda,UG,🇺🇬,true
+United States,US,🇺🇸,true
+Uruguay,UY,🇺🇾,true
+Uzbekistan,UZ,🇺🇿,true
+St. Vincent & The Grenadines,VC,🇻🇨,true
+Venezuela,VE,🇻🇨,true
+Virgin Islands,VI,🇻🇮,true
+Vietnam,VN,🇻🇳,true
+Vanuatu,VU,🇰🇳,true
+Kosovo,XK,🇽🇰,true
+Yemen,YE,🇾🇪,true
+South Africa,ZA,🇿🇦,true
+Zambia,ZM,🇿🇲,true
+Zimbabwe,ZW,🇿🇼,true
+Andorra,AD,🇦🇩,false
+Antarctica,AQ,🇦🇶,false
+American Samoa,AS,🇦🇸,false
+Aruba,AW,🇦🇼,false
+Åland Islands,AX,🇦🇽,false
+Bangladesh,BD,🇧🇩,false
+Burundi,BI,🇧🇮,false
+Saint Barthélemy,BL,🇧🇱,false
+"Bonaire, Sint Eustatius and Saba",BQ,🇧🇶,false
+Bouvet Island,BV,🇧🇻,false
+Cocos (Keeling) Islands,CC,🇨🇨,false
+Central African Republic,CF,🇨🇫,false
+Cook Islands,CK,🇨🇰,false
+Cameroon,CM,🇨🇲,false
+Cuba,CU,🇨🇺,false
+Curaçao,CW,🇨🇼,false
+Christmas Island,CX,🇨🇽,false
+Djibouti,DJ,🇩🇯,false
+Western Sahara,EH,🇪🇭,false
+Eritrea,ER,🇪🇷,false
+Ethiopia,ET,🇪🇹,false
+Falkland Islands (Malvinas),FK,🇫🇰,false
+Faroe Islands,FO,🇫🇴,false
+French Guiana,GF,🇬🇫,false
+Guernsey,GG,🇬🇬,false
+Gibraltar,GI,🇬🇮,false
+Greenland,GL,🇬🇱,false
+Guinea,GN,🇬🇳,false
+Guadeloupe,GP,🇬🇵,false
+Equatorial Guinea,GQ,🇬🇶,false
+South Georgia,GS,🇬🇸,false
+Guam,GU,🇬🇺,false
+Heard Island and Mcdonald Islands,HM,🇭🇲,false
+Haiti,HT,🇭🇹,false
+Isle of Man,IM,🇮🇲,false
+British Indian Ocean Territory,IO,🇮🇴,false
+Iran,IR,🇮🇷,false
+Jersey,JE,🇯🇪,false
+Kiribati,KI,🇰🇮,false
+Comoros,KM,🇰🇲,false
+North Korea,KP,🇰🇵,false
+Liechtenstein,LI,🇱🇮,false
+Lesotho,LS,🇱🇸,false
+Monaco,MC,🇲🇨,false
+Saint Martin (French Part),MF,🇲🇫,false
+Madagascar,MG,🇲🇬,true
+Marshall Islands,MH,🇲🇭,false
+Northern Mariana Islands,MP,🇲🇵,false
+Martinique,MQ,🇲🇶,false
+New Caledonia,NC,🇳🇨,false
+Norfolk Island,NF,🇳🇫,false
+Nauru,NR,🇳🇷,false
+Niue,NU,🇳🇺,false
+French Polynesia,PF,🇵🇫,false
+Saint Pierre and Miquelon,PM,🇵🇲,false
+Pitcairn,PN,🇵🇳,false
+Puerto Rico,PR,🇵🇷,false
+Palestinian Territory,PS,🇵🇸,false
+Réunion,RE,🇷🇪,false
+Sudan,SD,🇸🇩,false
+"Saint Helena, Ascension and Tristan Da Cunha",SH,🇸🇭,false
+Svalbard and Jan Mayen,SJ,🇸🇯,false
+San Marino,SM,🇸🇲,false
+Somalia,SO,🇸🇴,false
+South Sudan,SS,🇸🇸,false
+Sint Maarten (Dutch Part),SX,🇸🇽,false
+Syrian Arab Republic,SY,🇸🇾,false
+French Southern Territories,TF,🇹🇫,false
+Togo,TG,🇹🇬,false
+Tokelau,TK,🇹🇰,false
+Timor-Leste,TL,🇹🇱,false
+Tuvalu,TV,🇹🇻,false
+Vatican City,VA,🇻🇦,false
+"Virgin Islands, British",VG,🇻🇬,false
+Wallis and Futuna,WF,🇼🇫,false
+Samoa,WS,🇼🇸,false
+Mayotte,YT,🇾🇹,false
